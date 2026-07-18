@@ -15,7 +15,7 @@
 ### 🕸️ About Me
 
 - 🎓 3rd-year Computer Science undergrad at **KJSSE, Mumbai**
-- 💼 Full-stack intern @ **Invizn** — FastAPI, PostgreSQL, GCP + frontend work
+- 💼 Full-stack intern @ **Invizn** — FastAPI, PostgreSQL, AWS, Frontend work
 - 🧠 Into ML, backend systems, and building things end-to-end
 - 🕷️ Unofficial rule: no repo ships without at least one spidey pun in the commit history
 - 📍 Based in Mumbai — "your friendly neighborhood backend dev"
