@@ -3,7 +3,7 @@
 <h3 align="center">"With great code comes great responsibility."</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=550&lines=Backend+dev+swinging+between+FastAPI+%26+ML;3rd-year+CS+%40+KJSSE%2C+Mumbai;Backend+Intern+%40+Invizn;Currently+debugging+at+2+AM+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=550&lines=Full-stack+dev+swinging+between+FastAPI+%26+React;3rd-year+CS+%40+KJSSE%2C+Mumbai;Full-Stack+Intern+%40+Invizn;Currently+debugging+at+2+AM+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ### 🕸️ About Me
 
 - 🎓 3rd-year Computer Science undergrad at **KJSSE, Mumbai**
-- 💼 Backend-focused intern @ **Invizn** — FastAPI, PostgreSQL, GCP
+- 💼 Full-stack intern @ **Invizn** — FastAPI, PostgreSQL, GCP + frontend work
 - 🧠 Into ML, backend systems, and building things end-to-end
 - 🕷️ Unofficial rule: no repo ships without at least one spidey pun in the commit history
 - 📍 Based in Mumbai — "your friendly neighborhood backend dev"
