@@ -1,15 +1,11 @@
 <h1 align="center">Hi there, I'm Eshita 🕷️</h1>
-
 <h3 align="center">"With great code comes great responsibility."</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=550&lines=Full-stack+dev+swinging+between+FastAPI+%26+React;3rd-year+CS+%40+KJSSE%2C+Mumbai;Full-Stack+Intern+%40+Invizn;Currently+debugging+at+2+AM+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=650&lines=Full-stack+dev+swinging+between+FastAPI+%26+React;3rd-year+CS+%40+KJSSE%2C+Mumbai;Full-Stack+Intern+%40+Invizn;Currently+debugging+at+2+AM+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
 </p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="400" alt="spiderman swinging"/>
+  <img src="https://media.giphy.com/media/4NvsxuQArv2ZHScVgC/giphy.gif" width="400" alt="spiderman swinging"/>
 </p>
-
 ---
 
 ### 🕸️ About Me
