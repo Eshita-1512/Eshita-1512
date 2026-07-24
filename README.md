@@ -76,7 +76,7 @@ React/TypeScript frontend + Python (OR-Tools CP-SAT) scheduling backend for KMRL
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eshita-1512&layout=compact&theme=dracula&hide_border=true&title_color=DC143C" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-vercel.vercel.app/?user=Eshita-1512&theme=dracula&hide_border=true&ring=DC143C&fire=DC143C&cache_bust=1" />
+  <img src="https://streak-stats.demolab.com/?user=Eshita-1512&theme=dracula&hide_border=true&ring=DC143C&fire=DC143C&cache_bust=2" alt="GitHub Streak" />
 </p>
 
 ---
